@@ -37,4 +37,4 @@ Data count after dropping NaN values
 |sparta	          |10451	  |8.05%|
 |theft	          |303	    |0.23%|
 |normal	          |44786	  |34.52%|
-|Total	          |335,170	|100.00%|
+|Total	          |129,704	|100.00%|
