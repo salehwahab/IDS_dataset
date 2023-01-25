@@ -18,3 +18,23 @@ Data count
 |theft	          |423	    |0.13%|
 |normal	          |166249	  |49.60%|
 |Total	          |335,170	|100.00%|
+
+
+Data count after dropping NaN values
+
+|Category	        |Count	  |Percentage|
+| :-------------- |:-------:| --------:|
+|DDOS	            |10426	  |8.03%|
+|DOS	            |3418	  |2.63%|
+|injection	      |8400	  |6.47%|
+|keylogging	      |73	    |0.05%|
+|password    	    |9791	  |7.54%|
+|mqtt_bruteforce	|10084	  |7.77%|
+|scan_A	          |8003	  |6.17%|
+|ransomware	      |7174	  |5.53%|
+|backdoor	        |8365	  |6.44%|
+|XSS	            |8430	  |6.49%|
+|sparta	          |10451	  |8.05%|
+|theft	          |303	    |0.23%|
+|normal	          |44786	  |34.52%|
+|Total	          |335,170	|100.00%|
